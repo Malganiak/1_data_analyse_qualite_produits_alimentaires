@@ -31,8 +31,6 @@ Explorer les sources de données
 Réaliser des jointures entre les sources de données et effectuer d'autres manipulations
 Réaliser des analyses univariées et multivariées
 Présenter une synthèse des résultats de manière accessible aux non-techniciens
-Modalités pédagogiques :
-Travail de groupe de 3 personnes.
 
 Livrables :
 
